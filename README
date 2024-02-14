@@ -1,11 +1,13 @@
 Project Brief:
 
-Executed as a Machine Learning endeavor, this project was an examination of Logistic Regression techniques implemented within the Google Colab environment. The project's methodology incorporated the use of PyTorch, Matplotlib, Pandas, and Sklearn libraries, with a focus on addressing the significant challenge of Breast Cancer diagnosis.
+Executed as a Machine Learning endeavor, this project was an examination of Logistic Regression techniques implemented within the Google Colab environment.
+The project's methodology incorporated the use of PyTorch, Matplotlib, Pandas, and Sklearn libraries, with a focus on addressing the significant challenge of Breast Cancer diagnosis.
 
 
 Project Objective:
 
-The project was conceived with the noble objective of developing a Machine Learning model to compute the likelihood of breast cancer being malignant or benign. This was achieved by applying Logistic Regression to a curated dataset specifically tailored for this purpose.
+The project was conceived with the noble objective of developing a Machine Learning model to compute the likelihood of breast cancer being malignant or benign.
+This was achieved by applying Logistic Regression to a curated dataset specifically tailored for this purpose.
 
 
 Technical Architecture:
